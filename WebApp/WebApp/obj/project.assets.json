@@ -2941,19 +2941,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\boffe\\.nuget\\packages\\": {}
+    "C:\\Users\\oli_r\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\oli_r\\OneDrive\\Desktop\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
-      "packagesPath": "C:\\Users\\boffe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\boffe\\OneDrive\\Dokument\\GitHub\\WebApp\\WebApp\\WebApp\\obj\\",
+      "projectPath": "C:\\Users\\oli_r\\OneDrive\\Desktop\\GitHub\\WebApp\\WebApp\\WebApp\\WebApp.csproj",
+      "packagesPath": "C:\\Users\\oli_r\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oli_r\\OneDrive\\Desktop\\GitHub\\WebApp\\WebApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\boffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oli_r\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2961,6 +2961,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3031,7 +3032,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
